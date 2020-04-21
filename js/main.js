@@ -5,6 +5,7 @@ $(function(){
 		vertical: true,
 		dots: true,
 		dotsClass: 'header-dots',
+		autoplay: true,
 	});
 
 });
